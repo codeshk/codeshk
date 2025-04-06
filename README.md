@@ -14,6 +14,8 @@ class SalesforceDeveloper:
     def current_focus(self):
         return "Building cross-cloud portfolio projects"
 ```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielshiki)
+[![TRAILHEAD](https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://trailblazer.me/id/gabrielshiki)
 
 ### ☁️ Salesforce Ecosystem
 <p> <img src="https://img.shields.io/badge/Marketing_Cloud-Expert-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"> <img src="https://img.shields.io/badge/Sales_Cloud-Advanced-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"> <img src="https://img.shields.io/badge/Service_Cloud-Intermediate-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"> </p>
